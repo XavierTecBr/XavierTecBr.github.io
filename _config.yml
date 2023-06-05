@@ -20,7 +20,7 @@ timezone: America/Recife
 
 title: Código X Tecnologia # the main title
 
-tagline: Conteúdo sobre Software # it will display as the sub-title
+tagline: Aprender - Praticar - Revisar # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   A Código X existe para compartilhar conhecimentos sobre desenvolvimento de software e afins, tendo como público alvo pessoas que pensam em entrar, ou estão em migração para trabalhar, na área de tecnologia.
