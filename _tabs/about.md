@@ -4,5 +4,17 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
-{: .prompt-tip }
+<!-- > Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
+{: .prompt-tip } -->
+
+Nós da Código X Tecnologia estamos felizes em está aqui divulgando conhecimentos sobre a área de Engenharia de Software como um todo.
+Aqui compatilharemos desde conteúdos mais inciantes até ao mais avançados, então fica de olho e já compartilha com um amigo.
+
+Nossa missão é levar conhecimento de forma gratuita, prática, simples e objetiva. Numa linguagem fácil de entender seja qual for
+o seu nível. Sabemos que nem todos podem ter os recursos necessário para fazer uma faculdade ou até mesmo comprar um curso na internet, restando apenas a vontade de aprender e nós do lado de cá, temos a vontade de te ensinar, então aproveite bem essa oportunidade.
+
+Nossa visão é ser referência para aquelas pessoas que estão iniciando na tecnologia, ou mesmo tem apenas curiosidade no assunto.
+
+Nosso valor é disponibilizar um conteúdo relevante e de qualidade gratuitamente.
+
+Nosso fundador o, Gabriel Xavier, é um profissional atuante no mercado a mais de 10 anos, nas áreas de desenvolvimento web e banco de dados, atualmente com o foco em automação de processos para banco de dados num grande banco Brasileiro.
